@@ -1,0 +1,9 @@
+aln_lst: ["gyrBA_20220521.fasta"]
+data_file: "moxi_full_data.csv"
+drug: MOXI
+longest_locus: 4831
+filter_size: 12
+num_loci: 1
+batch_size: 128
+epochs: 1
+output_dir: "results"
